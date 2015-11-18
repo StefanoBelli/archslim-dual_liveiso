@@ -1,0 +1,18 @@
+->Check if 0.0.3-1 is correctly working {DONE}
+->Correct airootfs/etc/pacman.conf {DONE}
+->IPTables Service + rules  {DONE}
+->Customizing airootfs script adding "systemctl enable iptables.service" {DONE}
+[0.0.4 +==REACHED==+]
+->Check if 0.0.4 is correctly working {DONE}
+->Adding JRE7 (jre7-openjdk) {DONE}
+->Adding Nmap+Aircrack-ng {DONE}
+->Customize Zsh config file {DONE}
+->Utilities in /usr/bin {DONE}
+[0.0.5 +==REACHED==+]
+->Check if 0.0.5 is correctly working {DONE}
+->Customize syslinux/isolinux {DONE}
+->Customize LXDE/LXDM
+[Final Release test...]
+***
+[Rolling Release (1 week/total upgrade)]
+
